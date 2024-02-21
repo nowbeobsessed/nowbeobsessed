@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nowbeobsessed
 - 👀 I’m interested in Web App. 
-- 🌱 I’m currently learning html css and js.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on Project.
 - 📫 How to reach me nowbeobsessed on Twitter.
 
