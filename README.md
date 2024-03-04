@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nowbeobsessed
 - 👀 I’m interested in Web App. 
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on Project.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me nowbeobsessed on Twitter.
 
 <!---
