@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web App. 
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
-- 📫 How to reach me nowbeobsessed on Twitter.
+
 
 <!---
 nowbeobsessed/nowbeobsessed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
